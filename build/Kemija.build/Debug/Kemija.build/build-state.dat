@@ -1,0 +1,59 @@
+TKemija
+v7
+r0
+t440370421.716409
+cCheck dependencies
+cCompileC build/Kemija.build/Debug/Kemija.build/Objects-normal/x86_64/main.o "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug/Kemija" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug/Kemija
+t1418677621
+s11664
+
+N/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Objects-normal/x86_64/Kemija.LinkFileList
+c00000000548F4A190000000000000089
+t1418676761
+s137
+
+N/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Objects-normal/x86_64/main.o
+t1418677621
+s71360
+
+N/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/main.cpp
+c00000000548F4D75000000000000015F
+t1418677621
+s351
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies440370421#440370421#0(0"0(0#1#0"8613659456#0"0#
+
+CCompileC build/Kemija.build/Debug/Kemija.build/Objects-normal/x86_64/main.o "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s440370421.161673
+e440370421.653836
+r1
+xCompileC
+xbuild/Kemija.build/Debug/Kemija.build/Objects-normal/x86_64/main.o
+x/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/main.cpp440370421#440370421#0(0"0(0#0#78"/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/main.cpp8613731136#1636"    cd "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Kemija-generated-files.hmap" "-I/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Kemija-own-target-headers.hmap" "-I/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Kemija-all-target-headers.hmap" -iquote "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Kemija-project-headers.hmap" "-F/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug" "-I/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug/include" "-I/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/DerivedSources/x86_64" "-I/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/DerivedSources" -c "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/main.cpp" -o "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug/Kemija" normal x86_64
+s440370421.653905
+e440370421.716360
+r1
+xLd
+x/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug/Kemija
+xnormal
+xx86_64
+lSLF07#2@93"Link /Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug/Kemija440370421#440370421#0(0"0(0#0#0"8613579488#659"    cd "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug" "-F/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug" -filelist "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Kemija.build/Debug/Kemija.build/Objects-normal/x86_64/Kemija.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/atliepli/Documents/skóli/Haust 2014/AFLV/XCode/PSet11/Kemija/build/Debug/Kemija"0#
+
